@@ -3,7 +3,7 @@
 
 It's a bookmarklet to turn your website down for what.
 
-Bookmarklet <a class="button" href="#">Turn Down For What</a>
+Bookmarklet <a class="button" href="https://github.com/dylanjameswagner/turndownforwhatjs">turndownforwhat Punk Goes Pop 6</a>
 
 Edit bookmark value
 ```
